@@ -197,4 +197,4 @@ void tiraFoto(String chat_id){
 //Função liga/desliga flash.
 void flashControl(bool i){
   digitalWrite(FLASH_LED_PIN, i);
-}
+} 
