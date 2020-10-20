@@ -94,7 +94,7 @@ void handleNewMessages(int numNewMessages) {
     }
   }
 }
-
+ 
 bool isMoreDataAvailable() {
   if (dataAvailable)
   {
